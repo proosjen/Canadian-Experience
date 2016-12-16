@@ -1,0 +1,28 @@
+var class_c_view_timeline =
+[
+    [ "CViewTimeline", "class_c_view_timeline.html#aee8b6ebfaa9e299c65d6be0fc27b79f1", null ],
+    [ "~CViewTimeline", "class_c_view_timeline.html#afec58a7cb0dfafd6c64c19e9e8a57842", null ],
+    [ "OnDraw", "class_c_view_timeline.html#a32f2ff1b162abc49f841e5dd6ddcb7df", null ],
+    [ "OnEditDeletekeyframe", "class_c_view_timeline.html#ab3eccb4a5bcd5ffa60442359b86e0597", null ],
+    [ "OnEditSetkeyframe", "class_c_view_timeline.html#acb22f2662a21152e607d17dbc293351c", null ],
+    [ "OnEraseBkgnd", "class_c_view_timeline.html#a8328ae76e5f95d36b3ab7e8bbd8ef72f", null ],
+    [ "OnFileOpen32782", "class_c_view_timeline.html#a0679334f0c5d934467d14a831b768627", null ],
+    [ "OnFileSaveas", "class_c_view_timeline.html#a647b850c229507b28682d6b24e25e53c", null ],
+    [ "OnInitialUpdate", "class_c_view_timeline.html#a7996d31301f034cf9fa59e3d846c5fb5", null ],
+    [ "OnLButtonDown", "class_c_view_timeline.html#a70a35fb411cff2bde0354e09d794038b", null ],
+    [ "OnMouseMove", "class_c_view_timeline.html#a851210b0ff7efb8446857c20c553d421", null ],
+    [ "OnPlayPlay32789", "class_c_view_timeline.html#aacbf763a3d75ec1917d53a26856ff7e7", null ],
+    [ "OnPlayPlayfrombeginning32790", "class_c_view_timeline.html#ad4349cd0c6b20c8753e84720b056f223", null ],
+    [ "OnPlayStop32791", "class_c_view_timeline.html#a229545deab99fe7dcf37488f3c8e45a0", null ],
+    [ "OnTimer", "class_c_view_timeline.html#ac93c8889b6f1af6bcf210316bcbff80b", null ],
+    [ "SetMainFrame", "class_c_view_timeline.html#aba069993dd75712f340999345e791327", null ],
+    [ "UpdateObserver", "class_c_view_timeline.html#a21388abd4726fd3dbe02b6e2ea313369", null ],
+    [ "Height", "class_c_view_timeline.html#a6634479092090825e8c392902cf6c685", null ],
+    [ "mFirstDraw", "class_c_view_timeline.html#a81cf0d35549dd78975e862e353a4348f", null ],
+    [ "mIsPlaying", "class_c_view_timeline.html#a5e2a574d121b35e45e1cf48be8f88341", null ],
+    [ "mLastTime", "class_c_view_timeline.html#acb1853cf89dc96b2ce7d661ea01c797d", null ],
+    [ "mMainFrame", "class_c_view_timeline.html#aa6ecccd9ac4aa17c2fd103c19a4d51d2", null ],
+    [ "mMovingPointer", "class_c_view_timeline.html#a31d4ac2a9406e807e1e4cdf35f95db17", null ],
+    [ "mPointer", "class_c_view_timeline.html#a2a33ab69205afc0193a5af09748a062a", null ],
+    [ "mTimeFreq", "class_c_view_timeline.html#a0e7ce3587ba3e0a62a7d3df9bea40e3b", null ]
+];
